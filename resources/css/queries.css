@@ -1,0 +1,127 @@
+@media only screen and (max-width:1200px){
+	html{
+		font-size:16px;
+	}
+
+	.heading-main-box{
+		transform: translate(-35%, -50%)
+	}
+
+	form{
+		margin-left: 30%;
+	}
+}
+
+@media only screen and (max-width:1023px){
+	.logo{
+		width: 300px;
+		margin-left: 40px;
+	}
+
+	.main-nav{
+		margin-top: 40px;
+		margin-right: 15px;
+	}
+
+	.main-nav li{
+		margin-right: 10px;
+	}
+
+	.heading-main-box{
+		transform: translate(-20%, -50%);
+	}
+
+	.products-section .btn{
+		width: 80%;
+		margin-left: 10%;
+	}
+
+	.products-box{
+		width: 95%;
+	}
+
+	h3{
+		font-size: 90%;
+	}
+
+	.products-box ul li{
+		margin-left: 10%;
+	}
+
+	.products-box .small-icon{
+		margin-right: 5px;
+	}
+
+	.social-icon li{
+		margin-left: 10px;
+	}
+
+	.infomation i{
+		display: block;
+	}
+
+	.infomation li{
+		font-size: 14px;
+	}
+}
+
+@media only screen and (max-width:767px){
+	.col{
+		width: 100%;
+	}
+
+	.main-nav{
+		visibility: hidden;
+	}
+
+	.logo{
+		width: 350px;
+		margin-left: 13px;
+	}
+
+	h1{
+		word-spacing: 2px;
+		font-size: 250%;
+	}
+
+	.heading-main-box{
+		transform: translate(-15%, -50%);
+	}
+
+	.heading-main-box .btn{
+		width: 15%;
+	}
+
+	.about-picture{
+		text-align: center;
+	}
+
+	.about-section .row p-long{
+		font-size: 20px;
+	}
+
+	.about-picture img{
+		width: 70%;
+	}
+
+	.picture-title{
+		font-size: 25px;
+	}
+
+	.product-section .btn{
+		width: 60%;
+	}
+
+	.product-box{
+		width: 60%;
+		margin-left: 20%;
+	}
+
+	.product-box ul li{
+		margin-left: 20%;
+	}
+}
+
+@media only screen and (max-width:480px){
+
+}
